@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://ap123:ap123@social-network.vdjia.mongodb.net/<dbname>?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://ap123:ap123@social-network.vdjia.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
