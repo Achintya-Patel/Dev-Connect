@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://ap123:ap123@social-network.vdjia.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "f113dbba3d8c5dfe2bb6",
+  "githubSecret": "82f5a117ca849f3693e571c12a023723a523c33b"
+}
